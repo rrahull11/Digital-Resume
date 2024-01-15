@@ -72,7 +72,10 @@ st.write("---")
 st.write("#")
 st.subheader("Hard Skills")
 st.write(""" 
-- 👨‍💻 Programming : CPP, Pyhton, Java
+- 👨‍💻 Programming : CPP, Python, Java
 - 📂 Databases   : MYSQL
 - ✍️ UI/UX       : Figma
  """)
+st.link_button("Rahul")
+
+st.video('https://youtu.be/FVsvrFAWDTM')
