@@ -3,6 +3,8 @@ from pathlib import Path
 import streamlit as st
 from PIL import Image
 
+st.set_page_config(layout='wide')
+
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = current_dir/"styles"/"main.css"
 resume_file = current_dir/"assets"/"res.pdf"
