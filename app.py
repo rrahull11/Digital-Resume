@@ -76,6 +76,3 @@ st.write("""
 - 📂 Databases   : MYSQL
 - ✍️ UI/UX       : Figma
  """)
-st.link_button("Rahul")
-
-st.video('https://youtu.be/FVsvrFAWDTM')
